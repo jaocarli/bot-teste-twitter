@@ -59,3 +59,5 @@ setInterval(BotRetweet, 30*60*1000);
 
 // inicializar o bot
 BotInit();
+
+// PS: BOT NÃO FOI TESTADO AINDA!!!!
